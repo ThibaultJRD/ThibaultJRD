@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Thibault 👋</h1>
-<h3 align="center">A passionate FullStack developer living in Montreal 🍁</h3>
+<h3 align="center">A passionate FrontEnd developer living in Montreal 🍁</h3>
 
 ---
 
