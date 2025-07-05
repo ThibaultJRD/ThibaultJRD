@@ -1,4 +1,5 @@
-<h1 align="center">Hello World ! I'm Thibault !(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
+<h1 align="center">Hello World ! I'm Thibault ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/user-attachments/assets/48aa133b-3df2-4753-98b8-e88b83d2fe2b)
+</h1>
 <h3 align="center">A passionate Frontend & Mobile developer living in Montreal 🍁</h3>
 
 ---
