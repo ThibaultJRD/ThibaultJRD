@@ -10,17 +10,17 @@ I'm a passionate developer with a love for building clean, efficient, and scalab
 🎓 **Education**: EPITECH - European Institute of Technology (2014-2019)
 
 🚀 **Notable Projects**:
-- **Chain-Bridge**: Nest.js/TypeScript service for blockchain data synchronization
-- **Lum Network Explorer**: React-based blockchain explorer for the Lum Network
-- **Cosmos Millions**: Blockchain application development
+  - **Chain-Bridge**: Nest.js/TypeScript service for blockchain data synchronization
+  - **Lum Network Explorer**: React-based blockchain explorer for the Lum Network
+  - **Cosmos Millions**: Blockchain application development
 
-- 🔭 I’m currently working at **Services Conseils GO ROCK IT**.
-- 🌱 I’m currently learning **advanced React patterns, blockchain technologies, and mobile performance optimization**.
-- 👯 I’m looking to collaborate on **web applications, mobile apps, and blockchain projects**.
-- 🤔 I’m looking for help with **advanced TypeScript patterns and mobile app architecture**.
-- 💬 Ask me about **React, React Native, NextJS, Vue3, TypeScript, mobile development, and blockchain**.
-- 📫 How to reach me: **thibault@iusevimbtw.com**.
-- ⚡ Fun fact: **I've worked on blockchain explorers and love building cross-platform solutions**.
+🔭 I’m currently working at **Services Conseils GO ROCK IT**.
+🌱 I’m currently learning **advanced React patterns, blockchain technologies, and mobile performance optimization**.
+👯 I’m looking to collaborate on **web applications, mobile apps, and blockchain projects**.
+🤔 I’m looking for help with **advanced TypeScript patterns and mobile app architecture**.
+💬 Ask me about **React, React Native, NextJS, Vue3, TypeScript, mobile development, and blockchain**.
+📫 How to reach me: **thibault@iusevimbtw.com**.
+⚡ Fun fact: **I've worked on blockchain explorers and love building cross-platform solutions**.
 
 ---
 
