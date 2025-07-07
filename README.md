@@ -66,4 +66,7 @@ Here are some of the languages, tools, and technologies I enjoy working with:
   <a href="https://thibault.iusevimbtw.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
+  <a href="https://terminal-emulator-nine.vercel.app/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
