@@ -13,6 +13,7 @@ I'm a passionate Senior Mobile Developer with 8+ years of experience building cl
   - **Fruitz**: Dating app with 5.6M+ downloads, acquired by Bumble - React Native development
   - **BNC Banking App**: Mobile banking application serving 4M+ monthly users
   - **Bonjour Menu**: COVID-19 solution used by 900+ restaurants for contactless ordering
+  - **Cosmos Millions**: DeFi protocol for prize-linked savings accounts on Cosmos blockchain
   - [**Lum Network Explorer**](https://github.com/lum-network/explorer): React-based blockchain explorer with advanced analytics
   - [**Chain-Bridge**](https://github.com/lum-network/chain-bridge): Nest.js/TypeScript service for blockchain data synchronization
 
