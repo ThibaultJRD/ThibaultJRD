@@ -5,24 +5,26 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer with a love for building clean, efficient, and scalable applications. I specialize in frontend and mobile development, with a strong focus on modern web technologies and React ecosystem. I thrive on solving complex problems and I'm always eager to learn new technologies.
+I'm a passionate Senior Frontend Developer with 8+ years of experience building clean, efficient, and scalable applications. I specialize in frontend and mobile development, with expertise in React ecosystem, blockchain technologies, and modern web architectures. I thrive on solving complex problems and leading technical initiatives.
 
 🎓 **Education**: EPITECH - European Institute of Technology (2014-2019)
 
 🚀 **Notable Projects**:
-  - **Chain-Bridge**: Nest.js/TypeScript service for blockchain data synchronization
-  - **Lum Network Explorer**: React-based blockchain explorer for the Lum Network
-  - **Cosmos Millions**: Blockchain application development
+  - **Chain-Bridge**: Nest.js/TypeScript service for blockchain data synchronization with real-time updates
+  - **Lum Network Explorer**: React-based blockchain explorer with advanced analytics and user-friendly interface
+  - **Cosmos Millions**: DeFi application for the Cosmos ecosystem with smart contract integration
+  - **Enterprise Dashboard**: React/TypeScript dashboard with complex data visualization and real-time monitoring
+  - **Cross-Platform Mobile App**: React Native application with native performance optimizations
 
-🔭 I’m currently working at **Services Conseils GO ROCK IT**.
+🔭 I'm currently working as a **Senior Frontend Developer** at **Services Conseils GO ROCK IT**.
 
-🌱 I’m currently learning **advanced React patterns, blockchain technologies, and mobile performance optimization**.
+🌱 I'm currently learning **advanced React patterns, blockchain technologies, AI/ML integration, and mobile performance optimization**.
 
 👯 I’m looking to collaborate on **web applications, mobile apps, and blockchain projects**.
 
 🤔 I’m looking for help with **advanced TypeScript patterns and mobile app architecture**.
 
-💬 Ask me about **React, React Native, NextJS, Vue3, TypeScript, mobile development, and blockchain**.
+💬 Ask me about **React, React Native, NextJS, Vue3, TypeScript, mobile development, blockchain, and modern web architectures**.
 
 📫 How to reach me: **thibault@iusevimbtw.com**.
 
@@ -40,7 +42,8 @@ Here are some of the languages, tools, and technologies I enjoy working with:
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |         ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)          |               ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)               |      ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)      | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 |             ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)             |           ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)           | ![React Navigation](https://img.shields.io/badge/React%20Navigation-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) |
 |        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)         | ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) |                                                                                                                             |        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)         |    ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)    |
-|          ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)          |             ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)              |             ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)              |                                                                                                                   |                                                                                                       |
+|          ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)          |             ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)              |             ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)              | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 ---
 
@@ -49,6 +52,10 @@ Here are some of the languages, tools, and technologies I enjoy working with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThibaultJRD&show_icons=true&theme=catppuccin_mocha&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultJRD&layout=compact&theme=catppuccin_mocha" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThibaultJRD&theme=catppuccin-mocha" alt="GitHub Streak" />
 </p>
 
 ---
