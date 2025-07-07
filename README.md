@@ -24,7 +24,7 @@ I'm a passionate Senior Mobile Developer with 8+ years of experience building cl
 
 💬 Ask me about **React, React Native, NextJS, Vue3, TypeScript, mobile development, and blockchain**.
 
-📫 How to reach me: **thibault@iusevimbtw.com**.
+📫 How to reach me: **thibault.jaillard@gmail.com**.
 
 ---
 
