@@ -5,20 +5,19 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Senior Frontend Developer with 8+ years of experience building clean, efficient, and scalable applications. I specialize in frontend and mobile development, with expertise in React ecosystem, blockchain technologies, and modern web architectures. I thrive on solving complex problems and leading technical initiatives.
+I'm a passionate Senior Mobile Developer with 8+ years of experience building clean, efficient, and scalable applications. I specialize in mobile and frontend development, with expertise in React Native, iOS/Android platforms, and modern web technologies. I've developed 10+ applications reaching millions of users and thrive on solving complex problems while leading technical initiatives.
 
 🎓 **Education**: EPITECH - European Institute of Technology (2014-2019)
 
 🚀 **Notable Projects**:
-  - **Chain-Bridge**: Nest.js/TypeScript service for blockchain data synchronization with real-time updates
-  - **Lum Network Explorer**: React-based blockchain explorer with advanced analytics and user-friendly interface
-  - **Cosmos Millions**: DeFi application for the Cosmos ecosystem with smart contract integration
-  - **Enterprise Dashboard**: React/TypeScript dashboard with complex data visualization and real-time monitoring
-  - **Cross-Platform Mobile App**: React Native application with native performance optimizations
+  - **Fruitz**: Dating app with 5.6M+ downloads, acquired by Bumble - React Native development
+  - **BNC Banking App**: Mobile banking application serving 4M+ monthly users
+  - **Bonjour Menu**: COVID-19 solution used by 900+ restaurants for contactless ordering
+  - **Lum Network Explorer**: React-based blockchain explorer with advanced analytics
+  - **Chain-Bridge**: Nest.js/TypeScript service for blockchain data synchronization
 
-🔭 I'm currently working as a **Senior Frontend Developer** at **Services Conseils GO ROCK IT**.
+🔭 I'm currently working as a **Senior Mobile Developer** at **GO ROCK IT** (consultant for **BNC** - banking app with 4M+ monthly users).
 
-🌱 I’m currently learning **advanced React patterns and mobile performance optimization**.
 
 👯 I’m looking to collaborate on **web applications, mobile apps, and blockchain projects**.
 
@@ -40,6 +39,7 @@ Here are some of the languages, tools, and technologies I enjoy working with:
 |        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)         | ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) |                                                                                                                             |        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)         |    ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)    |
 |          ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)          |             ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)              |             ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)              | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) | ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) |
 
 ---
 
