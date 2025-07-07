@@ -14,7 +14,7 @@ I'm a passionate Senior Mobile Developer with 8+ years of experience building cl
   - **BNC Banking App**: Mobile banking application serving 4M+ monthly users
   - **Bonjour Menu**: COVID-19 solution used by 900+ restaurants for contactless ordering
   - [**Lum Network Explorer**](https://github.com/lum-network/explorer): React-based blockchain explorer with advanced analytics
-  - **Chain-Bridge**: Nest.js/TypeScript service for blockchain data synchronization
+  - [**Chain-Bridge**](https://github.com/lum-network/chain-bridge): Nest.js/TypeScript service for blockchain data synchronization
 
 🔭 I'm currently working as a **Senior Mobile Developer** at **GO ROCK IT** (consultant for **BNC** - banking app with 4M+ monthly users).
 
