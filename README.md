@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Thibault 👋</h1>
+<h1 align="center">Hello World ! I'm Thibault <img src="https://github.com/user-attachments/assets/7d6a7301-af2d-4aa8-ad85-33f15c10c0e1" alt="hello" /></h1>
 <h3 align="center">A passionate Frontend & Mobile developer living in Montreal 🍁</h3>
 
 ---
@@ -18,17 +18,13 @@ I'm a passionate Senior Frontend Developer with 8+ years of experience building 
 
 🔭 I'm currently working as a **Senior Frontend Developer** at **Services Conseils GO ROCK IT**.
 
-🌱 I'm currently learning **advanced React patterns, blockchain technologies, AI/ML integration, and mobile performance optimization**.
+🌱 I’m currently learning **advanced React patterns and mobile performance optimization**.
 
 👯 I’m looking to collaborate on **web applications, mobile apps, and blockchain projects**.
 
-🤔 I’m looking for help with **advanced TypeScript patterns and mobile app architecture**.
-
-💬 Ask me about **React, React Native, NextJS, Vue3, TypeScript, mobile development, blockchain, and modern web architectures**.
+💬 Ask me about **React, React Native, NextJS, Vue3, TypeScript, mobile development, and blockchain**.
 
 📫 How to reach me: **thibault@iusevimbtw.com**.
-
-⚡ Fun fact: **I've worked on blockchain explorers and love building cross-platform solutions**.
 
 ---
 
@@ -50,8 +46,8 @@ Here are some of the languages, tools, and technologies I enjoy working with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThibaultJRD&show_icons=true&theme=catppuccin_mocha&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultJRD&layout=compact&theme=catppuccin_mocha" alt="Top Languages" />
+  <img src="https://github-readm-stats.vercel.app/api?username=ThibaultJRD&show_icons=true&theme=catppuccin_mocha&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readm-stats.vercel.app/api/top-langs/?username=ThibaultJRD&layout=compact&theme=catppuccin_mocha" alt="Top Languages" />
 </p>
 
 <p align="center">
