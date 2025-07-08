@@ -47,8 +47,8 @@ Here are some of the languages, tools, and technologies I enjoy working with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readm-stats.vercel.app/api?username=ThibaultJRD&show_icons=true&theme=catppuccin_mocha&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readm-stats.vercel.app/api/top-langs/?username=ThibaultJRD&layout=compact&theme=catppuccin_mocha" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThibaultJRD&show_icons=true&theme=catppuccin_mocha&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultJRD&layout=compact&theme=catppuccin_mocha" alt="Top Languages" />
 </p>
 
 <p align="center">
