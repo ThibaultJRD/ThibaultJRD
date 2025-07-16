@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Senior Mobile Developer with 8+ years of experience building clean, efficient, and scalable applications. I specialize in mobile and frontend development, with expertise in React Native, iOS/Android platforms, and modern web technologies. I've developed 10+ applications reaching millions of users, co-founded Orbit Codes where I built advanced blockchain exploration tools, and thrive on solving complex problems while leading technical initiatives.
+I'm a passionate Senior Mobile Developer with 8+ years of experience building clean, efficient, and scalable applications. I specialize in mobile and frontend development, with expertise in React Native, iOS/Android platforms, and modern web technologies. I've developed 10+ applications reaching millions of users, co-founded Orbit Codes where I built advanced blockchain data & exploration tools, and thrive on solving complex problems while leading technical initiatives.
 
 🎓 **Education**: EPITECH - European Institute of Technology (2014-2019)
 
@@ -14,7 +14,7 @@ I'm a passionate Senior Mobile Developer with 8+ years of experience building cl
 - **Fruitz**: Dating app with 5.6M+ downloads, acquired by Bumble - React Native development
 - **BNC Banking App**: Mobile banking application serving 4M+ monthly users
 - **Bonjour Menu**: COVID-19 solution used by 900+ restaurants for contactless ordering
-- [**Terminal Emulator**](https://github.com/ThibaultJRD/terminal-emulator): Interactive web-based terminal emulator with educational tutorials - React Router v7/TypeScript project featuring 8 structured Unix command lessons and 689 comprehensive tests
+- [**Terminal Emulator**](https://github.com/ThibaultJRD/terminal-emulator): Interactive web-based terminal emulator with educational tutorials - React Router v7/TypeScript project featuring 8 structured Unix command lessons
 - [**Rollappscan**](https://rollappscan.com): Multi-chain Cosmos blockchain explorer with advanced features - Next.js application
 - [**Cosmos Millions**](https://github.com/lum-network/millions): DeFi protocol for prize-linked savings accounts on Cosmos blockchain
 - [**Lum Network Explorer**](https://github.com/lum-network/explorer): React-based blockchain explorer with advanced analytics
