@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Senior Mobile Developer with 8+ years of experience building clean, efficient, and scalable applications. I specialize in mobile and frontend development, with expertise in React Native, iOS/Android platforms, and modern web technologies. I've developed 10+ applications reaching millions of users, co-founded Orbit Codes where I built advanced blockchain data & exploration tools, and thrive on solving complex problems while leading technical initiatives.
+I'm a passionate Senior Mobile Developer with 9+ years of experience building clean, efficient, and scalable applications. I specialize in mobile and frontend development, with expertise in React Native, iOS/Android platforms, and modern web technologies. I've developed 10+ applications reaching millions of users, co-founded Orbit Codes where I built advanced blockchain data & exploration tools, and thrive on solving complex problems while leading technical initiatives.
 
 🎓 **Education**: EPITECH - European Institute of Technology (2014-2019)
 
