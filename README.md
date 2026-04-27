@@ -44,7 +44,6 @@ _Stack: TanStack Start, React 19, Shadcn UI, TypeScript, oRPC, Cloudflare Worker
 
 ### 🛠️ Tech Stack
 
-- **Languages** — TypeScript · JavaScript
 - **Frontend** — React · Next.js · TanStack Start · Vue.js · TailwindCSS
 - **Mobile** — React Native · Expo · iOS · Android
 - **Testing** — Jest · Vitest · React Testing Library
