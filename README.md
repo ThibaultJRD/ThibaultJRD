@@ -11,8 +11,9 @@ Senior developer with 9 years focused on **mobile (React Native)** and **modern 
 
 ### 🔭 Currently
 
-**Senior Mobile Developer @ National Bank of Canada (NBC)** — _Since January 2025_
+**Senior Mobile Developer · Pod Lead @ National Bank of Canada (NBC)** — _Since January 2025_
 
+- Tech lead of a 6-person pod (5 developers, 1 QA)
 - Shipping features and resolving bugs on a React Native app serving **4M+ monthly active users**
 - Leading technical conception for new features, designing scalable solutions for high-volume traffic
 - Driving rigorous QA and code reviews on a mission-critical banking product
